@@ -14,11 +14,11 @@ jobs:
       - name: install
         run: gem install bundler && bundle
       - name: pages
-        run: bundle exec rake wax:pages test
+        run: bundle exec rake wax:pages daniell
       - name: search
         run: bundle exec rake wax:search main
       - name: derivaties
-        run: bundle exec rake wax:derivatives:iiif test
+        run: bundle exec rake wax:derivatives:iiif daniell
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
