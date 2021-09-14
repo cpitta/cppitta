@@ -1,2 +1,2 @@
-pid,artist,engraver,label,location
-obj1,W. Daniell RA,E. J. Harris,Drawing of the Mouseleum of the Emperor Shere Shahl,India
+pid,artist,engraver,label,location,order,layout,collection,thumbnail,full,manifest
+obj1,W. Daniell RA,E. J. Harris,Drawing of the Mouseleum of the Emperor Shere Shahl,India,0,qatar_item,daniell,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg",/img/derivatives/iiif/obj1/manifest.json
